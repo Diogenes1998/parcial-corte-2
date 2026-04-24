@@ -23,6 +23,7 @@ body {
   color: var(--color-text-dark);
 }
 
+<<<<<<< HEAD
 /* =========================
    HEADER (BEM + FLEX)
 ========================= */
@@ -161,3 +162,5 @@ body {
   background: #111;
   color: white;
 }
+=======
+>>>>>>> 91c2443 (Agregando estilos y asegurando carpeta de imagenes)
